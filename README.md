@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there, I'm raghadxo!
 
-<!--
-**Raghadxo/Raghadxo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
+I'm a third-year medical student. I’m exploring my options and haven’t chosen a specialty yet.
 
-Here are some ideas to get you started:
+## 🎮 Hobbies
+In my free time, I enjoy playing video games and reading books.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+Feel free to connect with me here on GitHub!
+
+## 🎉 Fun Fact
+I love immersing myself in different worlds through gaming and literature!
